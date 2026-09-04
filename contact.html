@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PrettyTrick — Premium Handmade Nail Art</title>
+  <meta name="description" content="Browse our Trend Collection of handmade press-on nails.">
+  <meta name="keywords" content="handmade nail art, press-on nails, custom nails, wholesale nails, luxury nail art" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="PrettyTrick — Premium Handmade Nail Art" />
+  <meta property="og:description" content="Bespoke handmade nail art for brands, salons and luxury clients." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' stroke='%23b89b6a' stroke-width='1.5' fill='%23f7f3ef'/%3E%3Cpath d='M16 6l2.5 6 6.5-1-4 5 2 7-7-4-7 4 2-7-4-5 6.5 1z' stroke='%23b89b6a' stroke-width='1' fill='none'/%3E%3C/svg%3E" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500;600&display=swap"
+    rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+  </script>
+  <script type="text/javascript">
+    (function () {
+      emailjs.init({
+        publicKey: "8-xiGrVkbt9DwkPr0",
+      });
+    })();
+  </script>
+</head>
+
+<body>
+
+  <div id="header"></div>
+
+
+  <!-- PAGE HERO -->
+  <div class="page-hero" id="pageHero">
+    <span class="section-label">Reach Out</span>
+    <h1>Contact Us</h1>
+    <p>Please fill out the form below and one of our staff members will get back to you within 24 hours.</p>
+  </div>
+
+  <!-- CONTACT FORM -->
+  <section class="contact-section">
+    <div class="contact-inner">
+
+      <form id="contactForm" onsubmit="handleSubmit(event)">
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="firstName">First Name <span class="required-tag">(required)</span></label>
+            <input class="form-input" type="text" id="firstName" name="firstName" required />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="lastName">Last Name <span class="required-tag">(required)</span></label>
+            <input class="form-input" type="text" id="lastName" name="lastName" required />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="company">Company</label>
+          <input class="form-input" type="text" id="company" name="company" />
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="email">Email Address <span class="required-tag">(required)</span></label>
+          <input class="form-input" type="email" id="email" name="email" required />
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="subject">Subject <span class="required-tag">(required)</span></label>
+          <input class="form-input" type="text" id="subject" name="subject" required />
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="message">Message <span class="required-tag">(required)</span></label>
+          <textarea class="form-textarea" id="message" name="message" required></textarea>
+        </div>
+
+        <button type="submit" class="btn-submit" id="submitBtn">
+          <span id="btnText">Submit</span>
+        </button>
+      </form>
+
+      <!-- SUCCESS MESSAGE -->
+      <div class="form-success" id="formSuccess" style="display: none; text-align: center; padding: 40px 0;">
+        <div class="success-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <polyline points="20 6 9 17 4 12" />
+          </svg>
+        </div>
+        <h3>Thank You</h3>
+        <p>Your message has been received. We'll get back to you within 24 hours.</p>
+      </div>
+
+      <hr class="form-divider" />
+    </div>
+  </section>
+  <div id="socialmedia-container"></div>
+  <!-- FOOTER -->
+  <footer id="footer"></footer>
+
+
+</body>
+
+</html>

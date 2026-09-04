@@ -1,0 +1,591 @@
+[
+    {
+        "sku": "PTA035",
+        "name": "Dark Demon Blossom",
+        "images": [
+            "PTA035_Dark_Demon_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA047",
+        "name": "Blue Island Floral",
+        "images": [
+            "PTA047_Blue_Island_Floral-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA050",
+        "name": "Dalmatian Floral",
+        "images": [
+            "PTA050_Dalmatian_Floral-1.jpg",
+            "PTA050_Pink_Cherry_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA065",
+        "name": "Tropical Orange Flora",
+        "images": [
+            "PTA065_Tropical_Orange_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA079",
+        "name": "Lotus Pond",
+        "images": [
+            "PTA079_Lotus_Pond-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA080",
+        "name": "Pink Feather Bloom",
+        "images": [
+            "PTA080_Pink_Feather_Bloom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA084",
+        "name": "Serpent Jade Omen",
+        "images": [
+            "PTA084_Serpent_Jade_Omen-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA085",
+        "name": "Oil Painting Blooms",
+        "images": [
+            "PTA085_Oil_Painting_Blooms-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA086",
+        "name": "Purple Violet Flora",
+        "images": [
+            "PTA086_Purple_Violet_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA090",
+        "name": "Ink Blue Starflower",
+        "images": [
+            "PTA090_Ink_Blue_Starflower-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA095",
+        "name": "Rainbow Floral",
+        "images": [
+            "PTA095_Rainbow_Floral-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA098",
+        "name": "Peach Daisy",
+        "images": [
+            "PTA098_Peach_Daisy-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA099",
+        "name": "Red Spotted Bloom",
+        "images": [
+            "PTA099_Red_Spotted_Bloom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA100",
+        "name": "Pastel Blossom",
+        "images": [
+            "PTA100_Pastel_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA102",
+        "name": "Blue Porcelain Flora",
+        "images": [
+            "PTA102_Blue_Porcelain_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA110",
+        "name": "Lavender French",
+        "images": [
+            "PTA110_Lavender_French-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA111",
+        "name": "Sunny Yellow Flora",
+        "images": [
+            "PTA111_Sunny_Yellow_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA114",
+        "name": "Ice Blue Floral",
+        "images": [
+            "PTA114_Ice_Blue_Floral-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA118",
+        "name": "Dual Tone Pearl Flora",
+        "images": [
+            "PTA118_Dual_Tone_Pearl_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA120",
+        "name": "Purple Galaxy Flora",
+        "images": [
+            "PTA120_Purple_Galaxy_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTA121",
+        "name": "Mocha Petal",
+        "images": [
+            "PTA121_Mocha_Petal-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD001",
+        "name": "Pastel Waterlily",
+        "images": [
+            "PTD001_Pastel_Waterlily-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD004",
+        "name": "Vintage Mixed Flora",
+        "images": [
+            "PTD004_Vintage_Mixed_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD008",
+        "name": "Chained Mist Petal",
+        "images": [
+            "PTD008_Chained_Mist_Petal-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD009",
+        "name": "Pink Cherry Petal",
+        "images": [
+            "PTD009_Pink_Cherry_Petal-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD011",
+        "name": "Tiger Stripe Floral",
+        "images": [
+            "PTD011_Tiger_Stripe_Floral-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD014",
+        "name": "Pink Sakura Bloom",
+        "images": [
+            "PTD014_Pink_Sakura_Bloom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD015",
+        "name": "Multicolor Petal",
+        "images": [
+            "PTD015_Multicolor_Petal-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD017",
+        "name": "Leopard Cherry Flora",
+        "images": [
+            "PTD017_Leopard_Cherry_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD019",
+        "name": "Soft Pastel Blossom",
+        "images": [
+            "PTD019_Soft_Pastel_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD021",
+        "name": "Blue French Flower",
+        "images": [
+            "PTD021_Blue_French_Flower-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD023",
+        "name": "Lavender Plumeria",
+        "images": [
+            "PTD023_Lavender_Plumeria-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD026",
+        "name": "Blue Lattice Seastar",
+        "images": [
+            "PTD026_Blue_Lattice_Seastar-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD030",
+        "name": "Mix Pastel Blossom",
+        "images": [
+            "PTD030_Mix_Pastel_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD041",
+        "name": "Cow Print Blue Flora",
+        "images": [
+            "PTD041_Cow_Print_Blue_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD042",
+        "name": "Tropical Plumeria",
+        "images": [
+            "PTD042_Tropical_Plumeria-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD054",
+        "name": "Spring Dot Sakura",
+        "images": [
+            "PTD054_Spring_Dot_Sakura-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD055",
+        "name": "Soft Pink Cherry",
+        "images": [
+            "PTD055_Soft_Pink_Cherry-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD057",
+        "name": "Cinnamon Leopard Bloom",
+        "images": [
+            "PTD057_Cinnamon_Leopard_Bloom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD064",
+        "name": "Candy Multicolor Flora",
+        "images": [
+            "PTD064_Candy_Multicolor_Flora-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD066",
+        "name": "Lavender Blue Plumeria",
+        "images": [
+            "PTD066_Lavender_Blue_Plumeria-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD070",
+        "name": "Berry Dot Blossom",
+        "images": [
+            "PTD070_Berry_Dot_Blossom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD072",
+        "name": "Gradient Iced Petal",
+        "images": [
+            "PTD072_Gradient_Iced_Petal-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD074",
+        "name": "Rainbow Plumeria",
+        "images": [
+            "PTD074_Rainbow_Plumeria-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD078",
+        "name": "Crimson Ink Wash",
+        "images": [
+            "PTD078_Crimson_Ink_Wash-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD080",
+        "name": "Vintage Black Tip",
+        "images": [
+            "PTD080_Vintage_Black_Tip-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD084",
+        "name": "Monochrome Noir Cream",
+        "images": [
+            "PTD084_Monochrome_Noir_Cream-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD087",
+        "name": "Spring Berry Tapestry",
+        "images": [
+            "PTD087_Spring_Berry_Tapestry-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD090",
+        "name": "Wine Gloss Luxury",
+        "images": [
+            "PTD090_Wine_Gloss_Luxury-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD096",
+        "name": "Vivid Tropical Palette",
+        "images": [
+            "PTD096_Vivid_Tropical_Palette-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD102",
+        "name": "Burgundy Dual Tone",
+        "images": [
+            "PTD102_Burgundy_Dual_Tone-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD105",
+        "name": "Retro Polka Carnival",
+        "images": [
+            "PTD105_Retro_Polka_Carnival-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD108",
+        "name": "Noir Metallic Glam",
+        "images": [
+            "PTD108_Noir_Metallic_Glam-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD111",
+        "name": "Summer Splash Art",
+        "images": [
+            "PTD111_Summer_Splash_Art-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD113",
+        "name": "Magenta Shimmer Dream",
+        "images": [
+            "PTD113_Magenta_Shimmer_Dream-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD115",
+        "name": "Shell Gentle Nude",
+        "images": [
+            "PTD115_Shell_Gentle_Nude-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTD116",
+        "name": "Minimal Black Tip",
+        "images": [
+            "PTD116_Minimal_Black_Tip-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG001",
+        "name": "Seaside Lemon Breeze",
+        "images": [
+            "PTG001_Seaside_Lemon_Breeze-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG003",
+        "name": "Candy Rainbow Pastel",
+        "images": [
+            "PTG003_Candy_Rainbow_Pastel-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG006",
+        "name": "Retro Dot Sunshine",
+        "images": [
+            "PTG006_Retro_Dot_Sunshine-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG008",
+        "name": "Fairy Mushroom Land",
+        "images": [
+            "PTG008_Fairy_Mushroom_Land-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG015",
+        "name": "Botanical Garden",
+        "images": [
+            "PTG015_Botanical_Garden-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG019",
+        "name": "Tropical Jelly Pop",
+        "images": [
+            "PTG019_Tropical_Jelly_Pop-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG024",
+        "name": "Midnight Golden Glam",
+        "images": [
+            "PTG024_Midnight_Golden_Glam-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG025",
+        "name": "Burgundy Petal Elegance",
+        "images": [
+            "PTG025_Burgundy_Petal_Elegance-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG030",
+        "name": "Retro Leopard Cream",
+        "images": [
+            "PTG030_Retro_Leopard_Cream-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTG036",
+        "name": "Glitter Carnival",
+        "images": [
+            "PTG036_Glitter_Carnival-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ007",
+        "name": "Ocean Gradient Dream",
+        "images": [
+            "PTJ007_Ocean_Gradient_Dream-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ013",
+        "name": "Lilac Citrus Pop",
+        "images": [
+            "PTJ013_Lilac_Citrus_Pop-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ019",
+        "name": "Pearl Seaside Story",
+        "images": [
+            "PTJ019_Pearl_Seaside_Story-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ020",
+        "name": "Contrast Floral Noir",
+        "images": [
+            "PTJ020_Contrast_Floral_Noir-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ021",
+        "name": "Sunset Citrus Glow",
+        "images": [
+            "PTJ021_Sunset_Citrus_Glow-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ033",
+        "name": "Mint Cream Garden",
+        "images": [
+            "PTJ033_Mint_Cream_Garden-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ034",
+        "name": "Gentle Gold Botanical",
+        "images": [
+            "PTJ034_Gentle_Gold_Botanical-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ035",
+        "name": "Sweet Cream Palette",
+        "images": [
+            "PTJ035_Sweet_Cream_Palette-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ037",
+        "name": "Crimson French Charm",
+        "images": [
+            "PTJ037_Crimson_French_Charm-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ039",
+        "name": "Fruit Candy Carnival",
+        "images": [
+            "PTJ039_Fruit_Candy_Carnival-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ040",
+        "name": "Whimsical Spring Pop",
+        "images": [
+            "PTJ040_Whimsical_Spring_Pop-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ042",
+        "name": "Wine Tropical Bloom",
+        "images": [
+            "PTJ042_Wine_Tropical_Bloom-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ043",
+        "name": "Pink Blossom Blush",
+        "images": [
+            "PTJ043_Pink_Blossom_Blush-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ048",
+        "name": "Leopard Pink Romance",
+        "images": [
+            "PTJ048_Leopard_Pink_Romance-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ060",
+        "name": "Matcha Spring Breeze",
+        "images": [
+            "PTJ060_Matcha_Spring_Breeze-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ066",
+        "name": "Sky Tropical Splash",
+        "images": [
+            "PTJ066_Sky_Tropical_Splash-1.jpg"
+        ]
+    },
+    {
+        "sku": "PTJ068",
+        "name": "Vivid Jungle Palette",
+        "images": [
+            "PTJ068_Vivid_Jungle_Palette-1.jpg"
+        ]
+    }
+]

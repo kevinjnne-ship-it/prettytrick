@@ -1,0 +1,250 @@
+[
+    {
+        "sku": "PT0014",
+        "name": "Dusk Glow",
+        "images": [
+            "PT0014_Dusk_Glow-1.jpg",
+            "PT0014_Dusk_Glow-2.jpg",
+            "PT0014_Dusk_Glow-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0022",
+        "name": "Star Dots",
+        "images": [
+            "PT0022_Star_Dots-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0024",
+        "name": "Dewy Wing",
+        "images": [
+            "PT0024_Dewy_Wing-1.jpg",
+            "PT0024_Dewy_Wing-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0026",
+        "name": "Cat Paw Pudding",
+        "images": [
+            "PT0026_Cat_Paw_Pudding-1.jpg",
+            "PT0026_Cat_Paw_Pudding-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0029",
+        "name": "First Love",
+        "images": [
+            "PT0029_First_Love-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0033",
+        "name": "Champagne Sparkle Tip",
+        "images": [
+            "PT0033_Champagne_Sparkle_Tip-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0035",
+        "name": "French Blush",
+        "images": [
+            "PT0035_French_Blush-4.jpg",
+            "PT0035_French_Blush-5.png"
+        ]
+    },
+    {
+        "sku": "PT0047",
+        "name": "Earl Grey Tea",
+        "images": [
+            "PT0047_Earl_Grey_Tea-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0064",
+        "name": "Lattice",
+        "images": [
+            "PT0064_Lattice-1.jpg",
+            "PT0064_Lattice-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0067",
+        "name": "Chanel Kitty",
+        "images": [
+            "PT0067_Chanel_Kitty-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0069",
+        "name": "Vibrant Rainbow",
+        "images": [
+            "PT0069_Vibrant_Rainbow-1.jpg",
+            "PT0069_Vibrant_Rainbow-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0075",
+        "name": "Sweet Pink Leopard",
+        "images": [
+            "PT0075_Sweet_Pink_Leopard-1.jpg",
+            "PT0075_Sweet_Pink_Leopard-2.jpg",
+            "PT0075_Sweet_Pink_Leopard-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0078",
+        "name": "Galaxy Diamond",
+        "images": [
+            "PT0078_Galaxy_Diamond-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0079",
+        "name": "Fairy",
+        "images": [
+            "PT0079_Fairy-1.jpg",
+            "PT0079_Fairy-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0081",
+        "name": "Sweet Milk Foam",
+        "images": [
+            "PT0081_Sweet_Milk_Foam-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0082",
+        "name": "Tea Beauty",
+        "images": [
+            "PT0082_Tea_Beauty-1.jpg",
+            "PT0082_Tea_Beauty-2.jpg",
+            "PT0082_Tea_Beauty-3.jpg",
+            "PT0082_Tea_Beauty-4.jpg"
+        ]
+    },
+    {
+        "sku": "PT0085",
+        "name": "French Blueberry",
+        "images": [
+            "PT0085_French_Blueberry-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0087",
+        "name": "Black Swan",
+        "images": [
+            "PT0087_Black_Swan-1.jpg",
+            "PT0087_Black_Swan-2.jpg",
+            "PT0087_Black_Swan-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0088",
+        "name": "Amber Blue French",
+        "images": [
+            "PT0088_Amber_Blue_French-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0090",
+        "name": "Blackberry Blush",
+        "images": [
+            "PT0090_Blackberry_Blush-1.jpg",
+            "PT0090_Blackberry_Blush-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0094",
+        "name": "Light Chaser Cat Eye",
+        "images": [
+            "PT0094_Light_Chaser_Cat_Eye-1.jpg",
+            "PT0094_Light_Chaser_Cat_Eye-2.jpg",
+            "PT0094_Light_Chaser_Cat_Eye-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0097",
+        "name": "Guava",
+        "images": [
+            "PT0097_Guava-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0105",
+        "name": "Blue Galaxy",
+        "images": [
+            "PT0105_Blue_Galaxy-1.jpg",
+            "PT0105_Blue_Galaxy-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0108",
+        "name": "Blue Mist",
+        "images": [
+            "PT0108_Blue_Mist-1.jpg",
+            "PT0108_Blue_Mist-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0110",
+        "name": "Frozen Flower",
+        "images": [
+            "PT0110_Frozen_Flower-1.jpg",
+            "PT0110_Frozen_Flower-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0112",
+        "name": "Peach Wine",
+        "images": [
+            "PT0112_Peach_Wine-1.jpg",
+            "PT0112_Peach_Wine-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0118",
+        "name": "Galaxy Sparkle",
+        "images": [
+            "PT0118_Galaxy_Sparkle-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0120",
+        "name": "Blue Sea Dream",
+        "images": [
+            "PT0120_Blue_Sea_Dream-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0124",
+        "name": "Flower In Mist",
+        "images": [
+            "PT0124_Flower_In_Mist-1.jpg",
+            "PT0124_Flower_In_Mist-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0126",
+        "name": "Hat Kitty",
+        "images": [
+            "PT0126_Hat_Kitty-1.jpg",
+            "PT0126_Hat_Kitty-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0130",
+        "name": "Pet Diary",
+        "images": [
+            "PT0130_Pet_Diary-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0138",
+        "name": "Fragrant Violet",
+        "images": [
+            "PT0138_Fragrant_Violet-1.jpg"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+<!-- NAV -->
+<nav class="nav">
+    <div class="nav-brand-container">
+        <div class="nav-brand">
+            <a href="index.html" style="color: inherit; text-decoration: none;">
+                <span class="nav-brand-name">PrettyTrick</span></a>
+            <span class="nav-brand-sub">Nail Art</span>
+        </div>
+    </div>
+    <ul class="nav-links">
+        <li class="nav-dropdown">
+            <a>Products</a>
+            <div class="nav-dropdown-menu">
+                <a href="artist.html">SCULPTED ARTISTRY</a>
+                <a href="asian.html">EAST ASIAN ELEGANCE</a>
+                <a href="hand.html">ZIRCON LUXE OPULENCE</a>
+                <a href="trend.html">TRENDING & TIMELESS</a>
+                <a href="#products">Style #5</a>
+            </div>
+        </li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+    </ul>
+    <a href="contact.html" class="nav-cta">Request a Quote <span class="btn-arrow">›</span></a>
+    <button class="nav-hamburger" id="hamburger" onclick="toggleMenu()" aria-label="Menu">
+        <span></span><span></span><span></span>
+    </button>
+</nav>
+
+<!-- MOBILE MENU -->
+<div class="mobile-menu" id="mobileMenu">
+    <button class="mobile-products-toggle" onclick="toggleMobileProducts(this)">Products <span
+            class="toggle-chevron"></span></button>
+    <div class="mobile-sub" id="mobileProductsSub">
+        <a href="artist.html" onclick="toggleMenu()">SCULPTED ARTISTRY</a>
+        <a href="asian.html" onclick="toggleMenu()">EAST ASIAN ELEGANCE</a>
+        <a href="hand.html" onclick="toggleMenu()">ZIRCON LUXE OPULENCE</a>
+        <a href="trend.html" onclick="toggleMenu()">TRENDING & TIMELESS</a>
+        <a href="#products" onclick="toggleMenu()">Style #5</a>
+    </div>
+    <a href="about.html" onclick="toggleMenu()">About Us</a>
+    <a href="contact.html" onclick="toggleMenu()">Contact Us</a>
+    <a href="faq.html" onclick="toggleMenu()">FAQ</a>
+</div>

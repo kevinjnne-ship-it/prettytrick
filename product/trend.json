@@ -1,0 +1,199 @@
+[
+    {
+        "sku": "PT0023",
+        "name": "Misty Rose",
+        "images": [
+            "PT0023_Misty_Rose-1.jpg",
+            "PT0023_Misty_Rose-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0033",
+        "name": "Champagne Sparkle Tip",
+        "images": [
+            "PT0033_Champagne_Sparkle_Tip-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0046",
+        "name": "French Cream",
+        "images": [
+            "PT0046_French_Cream-1.jpg",
+            "PT0046_French_Cream-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0058",
+        "name": "Noble Grace",
+        "images": [
+            "PT0058_Noble_Grace-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0069",
+        "name": "Vibrant Rainbow",
+        "images": [
+            "PT0069_Vibrant_Rainbow-1.jpg",
+            "PT0069_Vibrant_Rainbow-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0073",
+        "name": "Rosemary",
+        "images": [
+            "PT0073_Rosemary-1.jpg",
+            "PT0073_Rosemary-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0077",
+        "name": "Monet Garden",
+        "images": [
+            "PT0077_Monet_Garden-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0079",
+        "name": "Fairy",
+        "images": [
+            "PT0079_Fairy-1.jpg",
+            "PT0079_Fairy-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0080",
+        "name": "Moon Beauty",
+        "images": [
+            "PT0080_Moon_Beauty-1.jpg",
+            "PT0080_Moon_Beauty-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0083",
+        "name": "Rainbow French",
+        "images": [
+            "PT0083_Rainbow_French-1.jpg",
+            "PT0083_Rainbow_French-2.jpg",
+            "PT0083_Rainbow_French-3.jpg",
+            "PT0083_Rainbow_French-4.jpg"
+        ]
+    },
+    {
+        "sku": "PT0084",
+        "name": "Chanel",
+        "images": [
+            "PT0084_Black_Gold_Chanel-1.jpg",
+            "PT0084_Chanel-1.jpg",
+            "PT0084_Chanel-2.jpg",
+            "PT0084_Chanel-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0086",
+        "name": "Autumn Vibe",
+        "images": [
+            "PT0086_Autumn_Vibe-1.jpg",
+            "PT0086_Autumn_Vibe-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0089",
+        "name": "Amber Glow",
+        "images": [
+            "PT0089_Amber_Glow-1.jpg",
+            "PT0089_Amber_Glow-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0091",
+        "name": "Romanticism",
+        "images": [
+            "PT0091_Romanticism-1.jpg",
+            "PT0091_Romanticism-2.jpg",
+            "PT0091_Romanticism-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0092",
+        "name": "Matte Pink Acetate",
+        "images": [
+            "PT0092_Matte_Pink_Acetate-1.jpg",
+            "PT0092_Matte_Pink_Acetate-2.jpg",
+            "PT0092_Matte_Pink_Acetate-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0093",
+        "name": "Cocoa Mousse",
+        "images": [
+            "PT0093_Cocoa_Mousse-1.jpg",
+            "PT0093_Cocoa_Mousse-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0096",
+        "name": "Misty Jade",
+        "images": [
+            "PT0096_Misty_Jade-1.jpg",
+            "PT0096_Misty_Jade-2.jpg",
+            "PT0096_Misty_Jade-3.jpg"
+        ]
+    },
+    {
+        "sku": "PT0098",
+        "name": "Rose Scent",
+        "images": [
+            "PT0098_Rose_Scent-1.jpg",
+            "PT0098_Rose_Scent-2.jpg",
+            "PT0098_Rose_Scent-3.jpg",
+            "PT0098_Rose_Scent-4.jpg",
+            "PT0098_Rose_Scent-5.jpg"
+        ]
+    },
+    {
+        "sku": "PT0100",
+        "name": "No Regret",
+        "images": [
+            "PT0100_No_Regret-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0102",
+        "name": "Kingfisher",
+        "images": [
+            "PT0102_Kingfisher-1.jpg",
+            "PT0102_Kingfisher-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0108",
+        "name": "Blue Mist",
+        "images": [
+            "PT0108_Blue_Mist-1.jpg",
+            "PT0108_Blue_Mist-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0109",
+        "name": "Kyoto",
+        "images": [
+            "PT0109_Kyoto-1.jpg",
+            "PT0109_Kyoto-2.jpg"
+        ]
+    },
+    {
+        "sku": "PT0113",
+        "name": "Peach Oolong",
+        "images": [
+            "PT0113_Peach_Oolong-1.jpg"
+        ]
+    },
+    {
+        "sku": "PT0133",
+        "name": "Trail",
+        "images": [
+            "PT0133_Trail-1.jpg",
+            "PT0133_Trail-2.jpg"
+        ]
+    }
+]

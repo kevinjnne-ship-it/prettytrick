@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PrettyTrick — Premium Handmade Nail Art</title>
+  <meta name="description"
+    content="PrettyTrick offers premium handmade nail art for brands, salons, and luxury clients. Custom designs, wholesale orders, and global shipping." />
+  <meta name="keywords" content="handmade nail art, press-on nails, custom nails, wholesale nails, luxury nail art" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="PrettyTrick — Premium Handmade Nail Art" />
+  <meta property="og:description" content="Bespoke handmade nail art for brands, salons and luxury clients." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' stroke='%23b89b6a' stroke-width='1.5' fill='%23f7f3ef'/%3E%3Cpath d='M16 6l2.5 6 6.5-1-4 5 2 7-7-4-7 4 2-7-4-5 6.5 1z' stroke='%23b89b6a' stroke-width='1' fill='none'/%3E%3C/svg%3E" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500;600&display=swap"
+    rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="loading">
+  <div class="page-loader">
+
+    <div class="loader-content">
+
+      <h1>PRETTYTRICK</h1>
+
+      <p>
+        Crafting Beauty,
+        One Nail At A Time
+      </p>
+
+      <span></span>
+
+    </div>
+
+  </div>
+
+  <div id="header"></div>
+
+  <!-- HERO -->
+  <section class="hero">
+
+    <div class="hero-bg">
+      <picture>
+        <source media="(max-width:560px)" srcset="images/hero/mobile-cta-1.png">
+        <img src="images/hero/CTA1.png" class="hero-slide active"
+          alt="PrettyTrick luxury nail art collection featuring premium handmade press-on nails">
+      </picture>
+
+      <picture>
+        <source media="(max-width:560px)" srcset="images/hero/mobile-CTA-2.png">
+        <img src="images/hero/CTA2.png" class="hero-slide"
+          alt="Custom handmade press-on nail designs with OEM and wholesale options">
+      </picture>
+
+      <picture>
+        <source media="(max-width:560px)" srcset="images/hero/mobile-CTA-3.png">
+        <img src="images/hero/CTA3.png" class="hero-slide"
+          alt="PrettyTrick nail collection with bespoke custom designs for brands">
+      </picture>
+    </div>
+    <div class="hero-content">
+      <p class="hero-tagline" id="heroTagline"></p>
+      <h1 class="hero-title" id="heroTitle"></h1>
+      <p class="hero-sub" id="heroSub"></p>
+    </div>
+
+    <!-- Hero Navigation Dots -->
+    <div class="hero-dots">
+      <button class="hero-dot active" onclick="goToHeroSlide(0)" aria-label="Slide 1"></button>
+      <button class="hero-dot" onclick="goToHeroSlide(1)" aria-label="Slide 2"></button>
+      <button class="hero-dot" onclick="goToHeroSlide(2)" aria-label="Slide 3"></button>
+    </div>
+
+  </section>
+
+  <!-- FEATURES -->
+  <section class="features">
+    <div class="collections-header reveal">
+      <h2 class="section-title">Core Global Services</h2>
+      <p class="section-label">One-Stop Handmade Press On Nails Wholesale & Customization Solution For All Global
+        Buyers</p>
+    </div>
+    <div class="features-grid">
+      <div class="feature-card reveal reveal-d1">
+        <p class="feature-title">Stock Bulk Wholesale</p>
+        <p class="feature-desc">1000+ ready stock designs, update weekly, creative&fashional design</p>
+      </div>
+      <div class="feature-card reveal reveal-d2">
+        <p class="feature-title">Private Label OEM</p>
+        <p class="feature-desc">Custom hand-painted nail design, packaging, logo printing to build your exclusive beauty
+          brand</p>
+      </div>
+      <div class="feature-card reveal reveal-d3">
+        <p class="feature-title">FAST TURNAROUND</p>
+        <p class="feature-desc">Ready designs available immediately. Sampling in 5 days. Production in 7-15 days.</p>
+      </div>
+      <div class="feature-card reveal reveal-d4">
+        <p class="feature-title">WORLDWIDE SHIPPING</p>
+        <p class="feature-desc">Sea/air/express shipping. Fast, reliable delivery to over 150 countries globally.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- COLLECTIONS -->
+  <section class="collections" id="collections">
+    <div class="collections-header reveal">
+      <p class="section-label">Explore</p>
+      <h2 class="section-title">Our Collections</h2>
+    </div>
+    <div class="collections-grid">
+      <a href="artist.html" class="collection-card reveal reveal-d1">
+        <div class="collection-img-wrap">
+          <img src="images/collections/1.png" alt="Luxury handmade press-on nail collection #1" />
+        </div>
+        <p class="collection-title">SCULPTED ARTISTRY</p>
+        <p class="feature-desc">Intricate 3D carvings and statement designs that bring premium craftsmanship and
+          standout appeal to any collection.</p>
+        <span class="collection-link">Explore More →</span>
+      </a>
+      <a href="asian.html" class="collection-card reveal reveal-d2">
+        <div class="collection-img-wrap">
+          <img src="images/collections/2.png" alt="Luxury handmade press-on nail collection #2" />
+        </div>
+        <p class="collection-title">EAST ASIAN ELEGANCE</p>
+        <p class="feature-desc">Inspired by Korea and Japan's most sought-after aesthetics, combining refined beauty
+          with strong market demand.</p>
+        <span class="collection-link">Explore More →</span>
+      </a>
+      <a href="hand.html" class="collection-card reveal reveal-d3">
+        <div class="collection-img-wrap">
+          <img src="images/collections/3.png" alt="Luxury handmade press-on nail collection #3" />
+        </div>
+        <p class="collection-title">ZIRCON LUXE OPULENCE</p>
+        <p class="feature-desc">Featuring premium zircon inlays, full-diamond embellishments and heavy-duty
+          craftsmanship, delivering dazzling high-shine glamour and luxurious dimensional texture for upscale styling.
+        </p>
+        <span class="collection-link">Explore More →</span>
+      </a>
+      <a href="trend.html" class="collection-card reveal reveal-d4">
+        <div class="collection-img-wrap">
+          <img src="images/collections/4.png" alt="Luxury handmade press-on nail collection #4" />
+        </div>
+        <p class="collection-title">TRENDING & TIMELESS</p>
+        <p class="feature-desc">A carefully curated mix of bestselling classics and evolving trends, created for lasting
+          commercial appeal.
+        </p>
+        <span class="collection-link">Explore More →</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- BESPOKE PROCESS -->
+  <section class="bespoke-process">
+    <div class="section-header">
+      <h2>Bespoke Nail Creation</h2>
+      <p>
+        From concept to finished product, we transform your ideas into
+        beautifully crafted press-on nail collections.
+      </p>
+    </div>
+
+    <div class="process-container">
+      <!-- Step 1 -->
+      <div class="process-item reveal reveal-d1">
+        <div class="process-image">
+          <img src="images/bespoke/1.png" alt="Design consultation for custom nail collections">
+        </div>
+        <h3>CONSULTATION</h3>
+        <p>
+          Share your design ideas and requirements.
+          Our team develops concepts based on your vision.
+        </p>
+      </div>
+
+      <!-- Step 2 -->
+      <div class="process-item reveal reveal-d2">
+        <div class="process-image">
+          <img src="images/bespoke/2.png" alt="Custom nail sampling and design refinement">
+        </div>
+        <h3>SAMPLING</h3>
+        <p>
+          Receive custom samples for review,
+          refinement, and approval.
+        </p>
+      </div>
+
+      <!-- Step 3 -->
+      <div class="process-item reveal reveal-d3">
+        <div class="process-image">
+          <img src="images/bespoke/3.png" alt="Sample approval and design confirmation">
+        </div>
+        <h3>APPROVAL</h3>
+        <p>
+          Confirm the final design,
+          materials, and production details.
+        </p>
+      </div>
+
+      <!-- Step 4 -->
+      <div class="process-item reveal reveal-d4">
+        <div class="process-image">
+          <img src="images/bespoke/4.png" alt="Professional nail production and crafting">
+        </div>
+        <h3>PRODUCTION</h3>
+        <p>
+          Handcrafted manufacturing with
+          strict quality control standards.
+        </p>
+      </div>
+
+      <!-- Step 5 -->
+      <div class="process-item reveal reveal-d5">
+        <div class="process-image">
+          <img src="images/bespoke/5.png" alt="Packaging and worldwide shipping solutions">
+        </div>
+        <h3>PACKAGING & SHIPPING</h3>
+        <p>
+          Custom packaging and worldwide
+          delivery solutions.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- BEST SELLERS -->
+  <section class="bestsellers" id="bestsellers">
+    <div style="text-align:center; margin-bottom: 40px;">
+      <p class="section-label">Top Picks</p>
+      <h2 class="section-title">Latest Recommendation</h2>
+      <p class="section-desc">Handpicked designs loved by brands worldwide.</p>
+    </div>
+
+    <div class="bs-viewport">
+      <div class="bs-track" id="bsTrack">
+        <a class="bs-card">
+          <img src="images/bestseller/1.jpg" alt="Premium handmade press-on nail design #1">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/2.jpg" alt="Premium handmade press-on nail design #2">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/3.jpg" alt="Premium handmade press-on nail design #3">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/4.jpg" alt="Premium handmade press-on nail design #4">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/5.jpg" alt="Premium handmade press-on nail design #5">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/6.jpg" alt="Premium handmade press-on nail design #6">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/7.jpg" alt="Premium handmade press-on nail design #7">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/8.jpg" alt="Premium handmade press-on nail design #8">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/9.jpg" alt="Premium handmade press-on nail design #9">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/10.jpg" alt="Premium handmade press-on nail design #10">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/11.jpg" alt="Premium handmade press-on nail design #11">
+        </a>
+        <a class="bs-card">
+          <img src="images/bestseller/12.jpg" alt="Premium handmade press-on nail design #12">
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- OEM -->
+  <section id="oem">
+    <div class="container">
+      <h2 class="section-title">OEM & ODM Customization</h2>
+      <p class="section-desc">Full custom service to create your unique press on nail brand</p>
+      <ul class="oem-list">
+        <li>✅ Custom nail shape, length, color & hand-painted pattern</li>
+        <li>✅ Custom gift box, packing card, brand logo printing</li>
+        <li>✅ Matching nail tools: glue, jelly tabs, nail files</li>
+        <li>✅ Full pre-production sample confirmation before mass production</li>
+      </ul>
+      <div style="text-align:center;margin-top:40px;">
+        <a href="contact.html" class="section-cta">Send Custom Demand</a>
+      </div>
+    </div>
+  </section>
+  <!-- TRUST SECTION -->
+  <section class="trust">
+    <div class="trust-item reveal reveal-d1">
+      <svg class="trust-icon" viewBox="0 0 36 36" fill="none" stroke="currentColor" stroke-width="1.4">
+        <path d="M18 2l3 8 8-1-5 6 2 8-8-4-8 4 2-8-5-6 8 1z" />
+      </svg>
+      <div>
+        <p class="trust-title">Premium Quality</p>
+        <p class="trust-desc">High-end materials and meticulous craftsmanship.</p>
+      </div>
+    </div>
+    <div class="trust-item reveal reveal-d2">
+      <svg class="trust-icon" viewBox="0 0 36 36" fill="none" stroke="currentColor" stroke-width="1.4">
+        <circle cx="13" cy="12" r="5" />
+        <circle cx="23" cy="12" r="5" />
+        <path d="M2 30c0-6 5-10 11-10h10c6 0 11 4 11 10" />
+      </svg>
+      <div>
+        <p class="trust-title">B2B &amp; Private Clients</p>
+        <p class="trust-desc">Trusted by nail professionals and luxury clients worldwide.</p>
+      </div>
+    </div>
+    <div class="trust-item reveal reveal-d3">
+      <svg class="trust-icon" viewBox="0 0 36 36" fill="none" stroke="currentColor" stroke-width="1.4">
+        <rect x="6" y="4" width="24" height="28" rx="3" />
+        <path d="M12 14h12M12 20h8" />
+      </svg>
+      <div>
+        <p class="trust-title">Secure &amp; Reliable</p>
+        <p class="trust-desc">Data protection and secure transactions.</p>
+      </div>
+    </div>
+    <div class="trust-item reveal reveal-d4">
+      <svg class="trust-icon" viewBox="0 0 36 36" fill="none" stroke="currentColor" stroke-width="1.4">
+        <path d="M18 3l2.5 7h7.5l-6 4.5 2.5 7-6.5-4.5-6.5 4.5 2.5-7-6-4.5h7.5z" />
+      </svg>
+      <div>
+        <p class="trust-title">Passion &amp; Care</p>
+        <p class="trust-desc">Every set is made with passion and care.</p>
+      </div>
+    </div>
+  </section>
+
+  <div id="socialmedia-container"></div>
+
+  <!-- FOOTER -->
+  <footer id="footer"></footer>
+
+
+  <script src="main.js"></script>
+  <div id="whatsapp-container"></div>
+</body>
+
+</html>

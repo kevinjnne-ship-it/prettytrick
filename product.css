@@ -1,0 +1,232 @@
+      body {
+          margin: 0;
+          background: #f8f5f1;
+          font-family: 'Jost', sans-serif;
+          color: #444;
+      }
+
+      .collection {
+          max-width: 1400px;
+          margin: 80px auto;
+          padding: 0 40px;
+      }
+
+      .collection-title {
+          text-align: center;
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 52px;
+          font-weight: 500;
+          letter-spacing: 2px;
+          margin-bottom: 15px;
+      }
+
+      .collection-description {
+          max-width: 760px;
+          margin: 0 auto 60px;
+          text-align: center;
+          color: #777;
+          line-height: 1.8;
+          font-size: 17px;
+      }
+
+      .product-grid {
+
+          display: grid;
+
+          grid-template-columns: repeat(4, 1fr);
+
+          gap: 40px;
+
+      }
+
+      .product-card {
+          max-width: 300px;
+          margin: auto;
+
+          background: #fff;
+          border-radius: 18px;
+          overflow: hidden;
+
+          transition: .35s ease;
+
+          cursor: pointer;
+
+          box-shadow: 0 8px 18px rgba(0, 0, 0, .05);
+      }
+
+      .thumbnail-row {
+
+          display: flex;
+
+          justify-content: center;
+
+          gap: 10px;
+
+          margin-top: 12px;
+
+      }
+
+      .thumbnail {
+
+          width: 55px;
+
+          height: 55px;
+
+          object-fit: cover;
+
+          border-radius: 8px;
+
+          cursor: pointer;
+
+          border: 2px solid transparent;
+
+          transition: .3s;
+
+      }
+
+      .thumbnail:hover {
+
+          transform: scale(1.05);
+
+      }
+
+      .thumbnail.active {
+
+          border: 2px solid #d7b39c;
+
+      }
+
+      .product-info {
+
+          padding: 18px 15px 20px;
+
+          text-align: center;
+
+      }
+
+      .sku {
+
+          font-weight: bold;
+
+          letter-spacing: 2px;
+
+          color: #8b6f62;
+
+      }
+
+      .description {
+
+          margin-top: 8px;
+
+          color: #777;
+
+      }
+
+      .product-card:hover {
+
+          transform: translateY(-8px);
+
+          box-shadow: 0 18px 35px rgba(0, 0, 0, .12);
+
+      }
+
+      .main-image {
+
+          width: 100%;
+
+          aspect-ratio: 1/1;
+
+          object-fit: cover;
+
+          display: block;
+
+          border-radius: 12px;
+
+      }
+
+      @media(max-width:1100px) {
+
+          .product-grid {
+
+              grid-template-columns: repeat(3, 1fr);
+
+          }
+
+      }
+
+      @media(max-width:768px) {
+
+          .collection {
+
+              padding: 0 25px;
+
+          }
+
+          .collection-title {
+
+              font-size: 42px;
+
+          }
+
+          .product-grid {
+
+              grid-template-columns: repeat(2, 1fr);
+
+              gap: 25px;
+
+          }
+
+      }
+
+      @media(max-width:480px) {
+
+          .product-grid {
+
+              grid-template-columns: 1fr;
+
+          }
+
+      }
+
+      .image-modal {
+
+          display: none;
+
+          position: fixed;
+
+          z-index: 999;
+
+          left: 0;
+          top: 0;
+
+          width: 100%;
+          height: 100%;
+
+          background-color: rgba(0, 0, 0, 0.8);
+
+          justify-content: center;
+          align-items: center;
+
+      }
+
+      .modal-image {
+
+          max-width: 90%;
+          max-height: 90%;
+
+      }
+
+      .close-modal {
+
+          position: absolute;
+
+          top: 20px;
+          right: 40px;
+
+          font-size: 40px;
+
+          color: white;
+
+          cursor: pointer;
+
+      }
