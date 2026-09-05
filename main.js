@@ -677,3 +677,59 @@ function handleSubmit(event) {
     submitBtn.classList.remove("loading");
   }
 }
+
+
+//Gallery Loader Script
+document.addEventListener("DOMContentLoaded", () => {
+  if (typeof productFile !== "undefined" && typeof productFolder !== "undefined") {
+    loadCollectionGallery(productFile, productFolder);
+  }
+});
+
+function loadCollectionGallery(jsonPath, folder) {
+  const CDN_BASE = "https://images.prettytrick.com";
+  const grid = document.getElementById("productGrid");
+  const modal = document.getElementById("imageModal");
+  const modalImg = document.getElementById("modalImage");
+
+  fetch(jsonPath)
+    .then((res) => {
+      if (!res.ok) throw new Error(`HTTP ${res.status} - Failed to load ${jsonPath}`);
+      return res.json();
+    })
+    .then((data) => {
+      grid.innerHTML = "";
+      data.forEach((item) => {
+        const card = document.createElement("div");
+        card.className = "product-card";
+
+        // Determine if image URL is absolute or CDN-relative
+        const imgSrc = item.image.startsWith("http")
+          ? item.image
+          : `${CDN_BASE}/${folder}/${item.image}`;
+
+        card.innerHTML = `
+          <div class="product-img-wrap">
+            <img src="${imgSrc}" alt="${item.title || 'Nail Art'}" loading="lazy">
+          </div>
+          <div class="product-info">
+            <h3 class="product-title">${item.title || ''}</h3>
+            ${item.code ? `<p class="product-code">Ref: ${item.code}</p>` : ''}
+          </div>
+        `;
+
+        card.addEventListener("click", () => {
+          if (modal && modalImg) {
+            modalImg.src = imgSrc;
+            modal.classList.add("active");
+          }
+        });
+
+        grid.appendChild(card);
+      });
+    })
+    .catch((err) => {
+      console.error("Gallery Error:", err);
+      grid.innerHTML = `<p class="error-msg">Unable to load collection data.</p>`;
+    });
+}
