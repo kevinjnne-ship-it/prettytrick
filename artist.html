@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PrettyTrick — Premium Handmade Nail Art</title>
-    <meta name="description" content="Browse our Trend Collection of handmade press-on nails.">
-    <meta name="keywords" content="handmade nail art, press-on nails, custom nails, wholesale nails, luxury nail art" />
+    <title>PrettyTrick — Sculpted Artistry Collection</title>
+    <meta name="description"
+        content="Browse our Sculpted Artistry Collection of handmade press-on nails featuring intricate 3D carvings and luxury designs.">
+    <meta name="keywords"
+        content="handmade nail art, press-on nails, custom nails, wholesale nails, luxury nail art, sculpted artistry" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="PrettyTrick — Premium Handmade Nail Art" />
+    <meta property="og:title" content="PrettyTrick — Sculpted Artistry Collection" />
     <meta property="og:description" content="Bespoke handmade nail art for brands, salons and luxury clients." />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" type="image/svg+xml"
@@ -26,39 +28,36 @@
     <div id="header"></div>
 
     <section class="collection">
+        <h1 class="collection-title">
+            Sculpted Artistry
+        </h1>
 
-            <h1 class="collection-title">
-                Sculpted Artistry
-            </h1>
+        <p class="collection-description">
+            Discover our most loved handcrafted press-on nails featuring elegant,
+            fashion-forward designs that never go out of style.
+            Perfect for salons, retailers and wholesale partners.
+        </p>
 
-            <p class="collection-description">
-                Discover our most loved handcrafted press-on nails featuring elegant,
-                fashion-forward designs that never go out of style.
-                Perfect for salons, retailers and wholesale partners.
-            </p>
-            <section class="product-section">
-
-                <div class="product-grid" id="productGrid">
-                    <!-- JavaScript will create product cards here -->
-                </div>
-
-            </section>
-            <div id="imageModal" class="image-modal">
-
-                <span class="close-modal">&times;</span>
-
-                <img id="modalImage" class="modal-image">
-
+        <section class="product-section">
+            <div class="product-grid" id="productGrid">
+                <!-- JavaScript will create product cards here -->
             </div>
         </section>
-        <section class="pagination-section">
 
-            <div id="pagination" class="pagination"></div>
+        <div id="imageModal" class="image-modal">
+            <span class="close-modal">&times;</span>
+            <img id="modalImage" class="modal-image" alt="Enlarged view">
+        </div>
+    </section>
 
-        </section>
+    <section class="pagination-section">
+        <div id="pagination" class="pagination"></div>
+    </section>
+
     <div id="socialmedia-container"></div>
     <!-- FOOTER -->
     <footer id="footer"></footer>
+
     <script>
         const productFile = "artist.json";
         const productFolder = "artist";
